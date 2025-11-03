@@ -1,8 +1,7 @@
 # Particle simulator - Computación en GPU CC7515
-- Integrantes: Adolfo Arenas P. - Alejandro Mori A.
 
 ---
-Proyecto realizado para el curso Computación en GPU CC7515. El programa busca evidenciar a través de una representación gráfica de un sistema de partículas la diferencia de rendimiento que ofrece usar paralelismo con una GPU, en comparación a una implementación lineal en CPU. Por otro lado, el sistema de partículas diseñado muestra la interacción de N $\in [2, 6000]$ partículas con carga positiva o negativa en un sistema que se rige exclusivamente bajo la ley de Coulomb.
+Proyecto realizado para el curso Computación en GPU CC7515 en conjunto con [Janoequide](https://github.com/Janoequide). El programa busca evidenciar a través de una representación gráfica de un sistema de partículas la diferencia de rendimiento que ofrece usar paralelismo con una GPU, en comparación a una implementación lineal en CPU. Por otro lado, el sistema de partículas diseñado muestra la interacción de N $\in [2, 6000]$ partículas con carga positiva o negativa en un sistema que se rige exclusivamente bajo la ley de Coulomb.
 ## Clonar y compilar
 Para clonar el proyecto, desde una terminal nos localizamos en la carpeta que queramos, y ejecutamos el siguiente comando: 
 
